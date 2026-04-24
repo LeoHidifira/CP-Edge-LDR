@@ -92,4 +92,11 @@ git clone: https://github.com/LeoHidifira/CP-Edge-LDR
 - Calibração dinâmica dos níveis de luz  
 - Display LCD para visualização  
 - Integração com IoT  
-- Histórico de dados  
+- Histórico de dados 
+
+## Autores:
+- André Peixoto Cano
+- Gabriel do Santos Tardelli
+- Leonardo Yuiti Hidifira
+- Murillo Dourado Viera
+- Renan Carlos Bonanno
