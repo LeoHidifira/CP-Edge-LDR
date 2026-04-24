@@ -1,5 +1,3 @@
-// C++ code
-//
 int LED_VERDE = 8;
 int LED_AMARELO = 9;
 int LED_VERMELHO = 10;

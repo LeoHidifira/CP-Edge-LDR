@@ -54,6 +54,9 @@ O circuito foi desenvolvido no Tinkercad.
 Link do projeto:
 https://www.tinkercad.com/things/5w2Yw8Jz7A7-epic-juttuli-fyyran?sharecode=ErXRdHLDjZ7BH234aG1bc8SlZnXCXp37r-COP1LHZkk
 
+Link video do projeto:
+https://youtu.be/3c6y6lCjg8g
+
 ---
 
 ## 🚀 Como Executar o Projeto
